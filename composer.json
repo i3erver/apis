@@ -1,0 +1,16 @@
+{
+    "name": "i3erver/apis",
+    "description": "This My Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MHamid\\i3erver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehdi Hamid"
+        }
+    ]
+}
